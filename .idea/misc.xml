@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/kuliah/SEMESTER 4/Pengembangan Aplikasi Mobile/AngkringanMobile/app/src/main/res/drawable/add.xml" value="0.212" />
+        <entry key="..\:/kuliah/SEMESTER 4/Pengembangan Aplikasi Mobile/AngkringanMobile/app/src/main/res/drawable/backbutton.xml" value="0.2" />
+        <entry key="..\:/kuliah/SEMESTER 4/Pengembangan Aplikasi Mobile/AngkringanMobile/app/src/main/res/drawable/daftarsatucolor.xml" value="0.236" />
+        <entry key="..\:/kuliah/SEMESTER 4/Pengembangan Aplikasi Mobile/AngkringanMobile/app/src/main/res/drawable/infosateusus.xml" value="0.262" />
+        <entry key="..\:/kuliah/SEMESTER 4/Pengembangan Aplikasi Mobile/AngkringanMobile/app/src/main/res/drawable/loginsatu.xml" value="0.236" />
+        <entry key="..\:/kuliah/SEMESTER 4/Pengembangan Aplikasi Mobile/AngkringanMobile/app/src/main/res/drawable/shoppingcart.xml" value="0.212" />
+        <entry key="..\:/kuliah/SEMESTER 4/Pengembangan Aplikasi Mobile/AngkringanMobile/app/src/main/res/drawable/sub.xml" value="0.212" />
+        <entry key="..\:/kuliah/SEMESTER 4/Pengembangan Aplikasi Mobile/AngkringanMobile/app/src/main/res/layout/activity_ceker.xml" value="0.37135416666666665" />
+        <entry key="..\:/kuliah/SEMESTER 4/Pengembangan Aplikasi Mobile/AngkringanMobile/app/src/main/res/layout/activity_dashboard.xml" value="0.25" />
+        <entry key="..\:/kuliah/SEMESTER 4/Pengembangan Aplikasi Mobile/AngkringanMobile/app/src/main/res/layout/activity_info.xml" value="0.33" />
+        <entry key="..\:/kuliah/SEMESTER 4/Pengembangan Aplikasi Mobile/AngkringanMobile/app/src/main/res/layout/activity_login.xml" value="0.33" />
+        <entry key="..\:/kuliah/SEMESTER 4/Pengembangan Aplikasi Mobile/AngkringanMobile/app/src/main/res/layout/activity_main.xml" value="0.2" />
+        <entry key="..\:/kuliah/SEMESTER 4/Pengembangan Aplikasi Mobile/AngkringanMobile/app/src/main/res/layout/activity_main_cart.xml" value="0.30632911392405066" />
+        <entry key="..\:/kuliah/SEMESTER 4/Pengembangan Aplikasi Mobile/AngkringanMobile/app/src/main/res/layout/activity_nasi_kucing.xml" value="0.30174563591022446" />
+        <entry key="..\:/kuliah/SEMESTER 4/Pengembangan Aplikasi Mobile/AngkringanMobile/app/src/main/res/layout/activity_piscok.xml" value="0.37135416666666665" />
+        <entry key="..\:/kuliah/SEMESTER 4/Pengembangan Aplikasi Mobile/AngkringanMobile/app/src/main/res/layout/activity_sate_telur.xml" value="0.37135416666666665" />
+        <entry key="..\:/kuliah/SEMESTER 4/Pengembangan Aplikasi Mobile/AngkringanMobile/app/src/main/res/layout/activity_sate_usus.xml" value="0.22" />
+        <entry key="..\:/kuliah/SEMESTER 4/Pengembangan Aplikasi Mobile/AngkringanMobile/app/src/main/res/layout/activity_sateusus.xml" value="0.37135416666666665" />
+        <entry key="..\:/kuliah/SEMESTER 4/Pengembangan Aplikasi Mobile/AngkringanMobile/app/src/main/res/layout/activity_summary.xml" value="0.37135416666666665" />
+        <entry key="..\:/kuliah/SEMESTER 4/Pengembangan Aplikasi Mobile/AngkringanMobile/app/src/main/res/layout/activity_susu_jahe.xml" value="0.37135416666666665" />
+        <entry key="..\:/kuliah/SEMESTER 4/Pengembangan Aplikasi Mobile/AngkringanMobile/app/src/main/res/layout/activity_tahu_bacem.xml" value="0.25" />
+        <entry key="..\:/kuliah/SEMESTER 4/Pengembangan Aplikasi Mobile/AngkringanMobile/app/src/main/res/layout/activity_teh.xml" value="0.37135416666666665" />
+        <entry key="..\:/kuliah/SEMESTER 4/Pengembangan Aplikasi Mobile/AngkringanMobile/app/src/main/res/layout/cartlist.xml" value="0.37135416666666665" />
+        <entry key="..\:/kuliah/SEMESTER 4/Pengembangan Aplikasi Mobile/AngkringanMobile/app/src/main/res/layout/infoceker.xml" value="0.21388888888888888" />
+        <entry key="..\:/kuliah/SEMESTER 4/Pengembangan Aplikasi Mobile/AngkringanMobile/app/src/main/res/layout/infodua.xml" value="0.1652892561983471" />
+        <entry key="..\:/kuliah/SEMESTER 4/Pengembangan Aplikasi Mobile/AngkringanMobile/app/src/main/res/layout/infopiscok.xml" value="0.37135416666666665" />
+        <entry key="..\:/kuliah/SEMESTER 4/Pengembangan Aplikasi Mobile/AngkringanMobile/app/src/main/res/layout/infosatetelur.xml" value="0.37135416666666665" />
+        <entry key="..\:/kuliah/SEMESTER 4/Pengembangan Aplikasi Mobile/AngkringanMobile/app/src/main/res/layout/infosateusus.xml" value="0.37135416666666665" />
+        <entry key="..\:/kuliah/SEMESTER 4/Pengembangan Aplikasi Mobile/AngkringanMobile/app/src/main/res/layout/infosusujahe.xml" value="0.33" />
+        <entry key="..\:/kuliah/SEMESTER 4/Pengembangan Aplikasi Mobile/AngkringanMobile/app/src/main/res/layout/infotahubacem.xml" value="0.37135416666666665" />
+        <entry key="..\:/kuliah/SEMESTER 4/Pengembangan Aplikasi Mobile/AngkringanMobile/app/src/main/res/layout/infoteh.xml" value="0.37135416666666665" />
+        <entry key="..\:/kuliah/SEMESTER 4/Pengembangan Aplikasi Mobile/AngkringanMobile/app/src/main/res/layout/listitem.xml" value="0.22" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

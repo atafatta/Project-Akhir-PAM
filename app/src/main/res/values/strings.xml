@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">AngkringanMobile</string>
+    <string name="nasikucing">Nasi Kucing merupakan makanan khas yang pasti ada di Angkringan. Biasanya berisi nasi,tempe, ikan teri, sambal maupun ayam suir.</string>
+
+
+    <string name="sateati">Sate ati merupakan sate yang terbuat dari jeroan hewan biasanya ayam dan jeroan ini terdiri dari Hati ayam, jantung, dan kadang brutu.  </string>
+
+
+    <string name="ceker"> Ceker adalah sebutan kaki ayam oleh orang jawa. Biasanya dikonsumsi juga untuk lauk dengan dimbumbui kecap saja sudah sangat enak</string>
+
+
+    <string name="satetelur">Sate telur dibuat dari telur burung puyuh karena ukurannya kecil maka bisa dibuat sate. Bumbu yang digunakan adalah biasanya hanya kecap dan dibuat bacem</string>
+
+
+    <string name="sateusus">Sate Usus merupakan sate yang dibuat dari usus hewan biasanya hewan yang dipakai adalah ayam</string>
+
+
+    <string name="teh">teh adalah minuman umum. Cocok disandingkan dengan nasi kucing dan sate-satean</string>
+    <string name="susujahe">Susu jahe merupakan minuman yang pasti ada di angkringan. Minuman ini adalah campuran dari susu dan jahe, jika diminum menyegarkan dan membuat badan hangat</string>
+    <string name="tahubacem">Tahu Bacem terbuat dari tahu putih, kemudian dibumbui kecap agar terasa manis dan dimasak dengan cara dikukus</string>
+    <string name="piscok">Pisang Coklat terbuat dari pisang yang diselimuti kulit lumpia kemudian digoreng. Untuk menambah rasa manis diberikan taburan susu coklat </string>
+</resources>
